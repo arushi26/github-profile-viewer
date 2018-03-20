@@ -13,15 +13,10 @@ Also has code covering -
 
 ## Screens
 
-![Screen 1](/screens/screen1.png?raw=true)
-<img src="/screens/screen1.png?raw=true" width="100">
+<img src="/screens/screen1.png?raw=true" width="300">
+<img src="/screens/screen2.png?raw=true" width="300">
+<img src="/screens/screen3.png?raw=true" width="300">
+<img src="/screens/screen4.png?raw=true" width="300">
+<img src="/screens/screen5.png?raw=true" width="300">
+<img src="/screens/screen6.png?raw=true" width="300">
 
-![Screen 2](/screens/screen2.png?raw=true)
-
-![Screen 3](/screens/screen3.png?raw=true)
-
-![Screen 4](/screens/screen4.png?raw=true)
-
-![Screen 5](/screens/screen5.png?raw=true)
-
-![Screen 6](/screens/screen6.png?raw=true)
