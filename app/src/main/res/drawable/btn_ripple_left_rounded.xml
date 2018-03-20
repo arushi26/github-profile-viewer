@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--An accent colour ripple drawn atop a drawable resource.-->
+<ripple android:color="@color/colorAccentDark"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/btn_left_rounded" />
+</ripple>

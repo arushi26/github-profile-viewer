@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize_profile_title">28sp</dimen>
+    <dimen name="textsize_profile_subtitle">20sp</dimen>
+    <dimen name="textsize_profile_text">18sp</dimen>
+    <dimen name="textsize_profile_counts">25sp</dimen>
+    <dimen name="avatar_size">150dp</dimen>
+    <dimen name="separator_height">3dp</dimen>
+
+    <dimen name="avatar_left_margin">6dp</dimen>
+    <dimen name="profile_left_margin">20dp</dimen>
+    <dimen name="profile_right_margin">12dp</dimen>
+
+    <dimen name="section_spacing">25dp</dimen>
+    <dimen name="column_spacing">35dp</dimen>
+    <dimen name="icon_label_spacing">4dp</dimen>
+</resources>

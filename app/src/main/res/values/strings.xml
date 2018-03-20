@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github Profile Viewer</string>
+    <string name="lbl_followers">Followers</string>
+    <string name="lbl_following">Following</string>
+    <string name="lbl_repos">Repos</string>
+    <string name="lbl_bio">Bio</string>
+    <string name="lbl_more">More details</string>
+    <string name="hireable">Available for hire</string>
+
+    <string name="search">Search</string>
+    <string name="follow">Follow</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="cancel">Cancel</string>
+    <string name="error_no_user">Search a user through the Search option on the toolbar</string>
+    <string name="error_internet_connection">Please check your internet connection and try again</string>
+    <string name="error_no_such_user">There is no user with this username</string>
+    <string name="msg_on_follow">To implement - Follow</string>
+</resources>
