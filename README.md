@@ -1,4 +1,4 @@
-# github-profile-viewer
+﻿# github-profile-viewer
 
 Practice Project for a Profile Layout page.
 
@@ -8,4 +8,8 @@ Also has code covering -
 3. Custom Image View in Hexagonal shape
 4. Dialog with Input field
 5. Implicit intents for Share and Web navigation
+
+
+Screens
+
 
